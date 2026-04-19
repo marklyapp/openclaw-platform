@@ -1,0 +1,6 @@
+# Auth credentials
+gh-config/
+
+# OS files
+.DS_Store
+Thumbs.db
