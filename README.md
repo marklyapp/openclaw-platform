@@ -86,7 +86,7 @@ Platform setup is done. Now set up a workflow:
 
 | Workflow | Repo | Description |
 |----------|------|-------------|
-| **Software Dev Pod** | [openclaw-config](https://github.com/marklyapp/openclaw-config) | Autonomous dev team: architect, dev, reviewer, coordinator |
+| **Software Dev Pod** | [openclaw-config](https://github.com/marklyapp/openclaw-config-devteam) | Autonomous dev team: architect, dev, reviewer, coordinator |
 
 Each workflow repo has its own `setup.sh` that detects paths, creates config files, and tells you what to fill in. The tokens and IDs from the platform setup above are what you'll enter.
 
